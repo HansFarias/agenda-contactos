@@ -20,6 +20,10 @@ Proyecto de la materia Desarrollo Web (Unidad 3: PHP con MySQL).
 - Apache (XAMPP en Windows) y phpMyAdmin
 - Visual Studio Code
 
+## Video de Presentacion proyecto
+
+- https://youtu.be/4LhVGYubHRk
+
 ## Seguridad implementada
 
 - Contraseñas guardadas con `password_hash()` y comprobadas con `password_verify()`.
